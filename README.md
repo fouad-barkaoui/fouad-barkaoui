@@ -1,5 +1,3 @@
-<h-align="center">
-
 ### Hi there, I'm Fouad Barkaoui 👋
 
 **Senior Web Developer | Digital Investigator | Cyber Security & Reverse Engineer**
