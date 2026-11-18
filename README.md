@@ -1,39 +1,40 @@
 <!--
   Profile README for github.com/fouad-barkaoui
-  Every visual in /assets is a hand-built animated SVG (no external fonts, scripts or APIs),
-  so nothing here can break when a third-party stats service goes down.
-  Regenerate the assets with:  python3 tools/build_assets.py assets
+  /assets/*.svg are hand-built animated SVGs (no external fonts, scripts or APIs): python3 tools/build_assets.py assets
+  /assets/work/*.webp are framed screenshots from the portfolio repo: python3 tools/build_project_cards.py <portfolio>/src/assets assets/work
 -->
 
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Fouad Barkaoui. Digital Investigator, Reverse Engineer, Builder.">
+<img src="./assets/hero.svg" width="100%" alt="Fouad Barkaoui. SOC analyst, fullstack developer, prompt engineer.">
 
 <br><br>
 
-<a href="https://fouad-barkaoui.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-e4f222?style=for-the-badge&labelColor=0f1011" alt="Portfolio: live"></a>
-<img src="https://img.shields.io/badge/FOCUS-DFIR%20%C2%B7%20MALWARE%20ANALYSIS-ff5a5f?style=for-the-badge&labelColor=0f1011" alt="Focus: DFIR and malware analysis">
-<img src="https://img.shields.io/badge/LAB-PROXMOX%20%C2%B7%20PFSENSE-22c3d6?style=for-the-badge&labelColor=0f1011" alt="Lab: Proxmox and pfSense">
+<a href="https://fouad-barkaoui.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-e4f222?style=for-the-badge&labelColor=0f1011" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/fouad-barkaoui/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-22c3d6?style=for-the-badge&labelColor=0f1011" alt="LinkedIn"></a>
+<a href="mailto:fouadbr2001@gmail.com"><img src="https://img.shields.io/badge/EMAIL-WRITE%20TO%20ME-ff5a5f?style=for-the-badge&labelColor=0f1011" alt="Email"></a>
 <img src="https://komarev.com/ghpvc/?username=fouad-barkaoui&label=PROFILE%20VIEWS&color=7c80ff&style=for-the-badge" alt="Profile views">
 
 <br><br>
 
-<img src="./assets/whoami.svg" width="100%" alt="whoami: Senior Web Developer and Digital Investigator focused on cyber incident response, malware analysis and CTI.">
+<img src="./assets/whoami.svg" width="100%" alt="whoami: SOC analyst, fullstack developer, vibe coder and prompt engineer. Open to work, based in Morocco.">
 
 <br><br>
 
-<img src="./assets/arsenal.svg" width="100%" alt="Arsenal: x64dbg, Scylla, MITRE ATT&CK, DFIR IRIS, ELK, OpenSearch, TypeScript, React, Supabase, Proxmox VE, pfSense, Docker.">
+<img src="./assets/sec-work.svg" width="100%" alt="Shipped">
 
 <br><br>
 
-<img src="./assets/sec-operations.svg" width="100%" alt="Operations">
+<a href="https://kanz-workspace.vercel.app"><img src="./assets/work/work-kanz.webp" width="49%" alt="Kanz: private spatial workspace"></a>
+<a href="https://windows-field-manual.vercel.app"><img src="./assets/work/work-windows.webp" width="49%" alt="Windows Field Manual: 189 investigation commands"></a>
+<a href="https://pebyfouad.vercel.app"><img src="./assets/work/work-prompt.webp" width="49%" alt="Prompt Engine: prompt review and spec scoring"></a>
+<a href="https://fouad-barkaoui.vercel.app/#case-studio"><img src="./assets/work/work-studio.webp" width="49%" alt="Resume Studio: offline AI resume and ATS optimizer"></a>
+<a href="https://fouad-barkaoui.vercel.app/#case-assas"><img src="./assets/work/work-assas.webp" width="49%" alt="ASSAS: codebase security scanner"></a>
+<a href="https://fouad-barkaoui.vercel.app"><img src="./assets/work/work-portfolio.webp" width="49%" alt="Portfolio: every project with full case studies"></a>
 
 <br><br>
 
-<a href="https://fouad-barkaoui.vercel.app"><img src="./assets/card-sentinel-lab.svg" width="49%" alt="Sentinel Lab: multi-node home SOC on Proxmox VE and pfSense"></a>
-<a href="https://fouad-barkaoui.vercel.app"><img src="./assets/card-ops-console.svg" width="49%" alt="Sentinel Ops Console: offline Three.js SOC lab simulator"></a>
-<a href="https://fouad-barkaoui.vercel.app"><img src="./assets/card-nexus.svg" width="49%" alt="Nexus: local-first spatial workspace on React and Supabase"></a>
-<a href="https://fouad-barkaoui.vercel.app"><img src="./assets/card-malware-lab.svg" width="49%" alt="Malware Analysis: PE memory dumping and IAT reconstruction"></a>
+<img src="./assets/arsenal.svg" width="100%" alt="Arsenal: x64dbg, Scylla, MITRE ATT&CK, DFIR IRIS, ELK, OpenSearch, TypeScript, React, Supabase, Python, Proxmox VE, pfSense, Docker.">
 
 <br><br>
 
